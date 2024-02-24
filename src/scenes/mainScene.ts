@@ -1,4 +1,4 @@
-import Phaser, { Physics } from "phaser";
+import Phaser from "phaser";
 
 export type Collidable =
     | Phaser.Types.Physics.Arcade.GameObjectWithBody
